@@ -1,0 +1,8 @@
+virtual address = 16 bit
+pages = 8KB = 2^13 bit
+So, 
+Offset = 13 bits
+Amount of bits to determine virtual pages = 16-3 = 3 bits
+Amount of virtual pages = 2^3 = 8 pages
+From this
+ 8 entries are needed for a single-level linear page table

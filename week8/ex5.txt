@@ -1,0 +1,2 @@
+Physical address - address that uniquely identifies cell in physical memory
+Virtual address - abstraction in secondary memory, that helps to extend primary memory
