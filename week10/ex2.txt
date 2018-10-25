@@ -1,0 +1,2 @@
+/root/os/week10/_ex2.txt
+/root/os/week01/file.txt
