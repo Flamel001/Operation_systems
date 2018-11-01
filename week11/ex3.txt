@@ -1,0 +1,4 @@
+printf() is line buffered
+fork() creates exact clone, that means that child get buffer also
+That's why in first case we get 2 full buffers, that are freed after "\n"
+And in second case child get empty buffer and just prints "\n"
