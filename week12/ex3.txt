@@ -1,0 +1,1 @@
+O_ASYNC mode is faster than O_SYNC because it doesn't block on each step for synchronization. When size of buffer increases - difference also increases
